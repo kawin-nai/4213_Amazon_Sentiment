@@ -13,6 +13,106 @@
       "https://www.amazon.com/Razer-Ornata-Gaming-Keyboard-Low-Profile/product-reviews/B09X6GJ691/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
       "https://www.amazon.com/Razer-Huntsman-Mini-Gaming-Keyboard/product-reviews/B08B3JSKGR/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
       "https://www.amazon.com/Razer-Huntsman-Optical-Gaming-Keyboard/product-reviews/B09C12L49Z/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ],
+    "Headphones": [
+      "https://www.amazon.com/Razer-Kraken-Gaming-Headset-2019/product-reviews/B07N86GL5T/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Razer-BlackShark-V2-Gaming-Headset/product-reviews/B086PKMZ21/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Razer-BlackShark-Gaming-Headset-Detachable/product-reviews/B086PKMZ1Q/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Razer-Barracuda-Wireless-Headset-Playstation/product-reviews/B09Y1Q8NG2/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Razer-Nari-Ultimate-HyperSense-Gel-Infused/product-reviews/B07HZ6YWNB/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ]
+  },
+  "Logitech" : {
+    "Mouse" : [
+      "https://www.amazon.com/Logitech-Wireless-Computer-Unifying-Receiver/product-reviews/B087Z5WDJ2/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-LIGHTSPEED-Wireless-Gaming-Mouse/product-reviews/B07CMS5Q6P/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-G502-Performance-Gaming-Mouse/product-reviews/B07GBZ4Q68/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-Wireless-Gaming-Esports-Performance/product-reviews/B07GCKQD77/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-Master-Wireless-Mouse-Rechargeable/product-reviews/B071YZJ1G1/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ],
+    "Keyboard" : [
+      "https://www.amazon.com/Logitech-Wireless-Keyboard-K270-Long-Range/product-reviews/B004N627KS/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC/product-reviews/B085RMD5TP/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-G613-Lightspeed-Mechanical-Multihost-Connectivity/product-reviews/B07796MBJ7/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-Mechanical-Tenkeyless-Detachable-LIGHTSYNC/product-reviews/B07QQB9VCV/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-Backlit-Mechanical-Keyboard-Passthrough/product-reviews/B06XR5MWGM/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ],
+    "Headphones": [
+      "https://www.amazon.com/Logitech-Wireless-Headset-Black-Tico/product-reviews/B081415GCS/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-G435-Wireless-Gaming-Headset/product-reviews/B08R8DQDRK/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-Surround-Gaming-Headset-Leatherette/product-reviews/B07MRMHML9/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-G335-Wired-Gaming-Headset/product-reviews/B08KKBSDTY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Logitech-Headset-H390-Noise-Cancelling/product-reviews/B000UXZQ42/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ]
+  },
+  "SteelSeries": {
+    "Mouse": [
+      "https://www.amazon.com/SteelSeries-Rival-Gaming-Mouse-Programmable/product-reviews/B08176SM7C/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Aerox-Wireless-Lightweight-Ultra-lightweight-Resistant/product-reviews/B09VP2NV53/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Rival-600-Gaming-Mouse/product-reviews/B078LJ6RPK/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Rival-Quantum-Wireless-Gaming/product-reviews/B07HCXFQ8P/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Aerox-Wireless-Ultra-Lightweight-Programmable/product-reviews/B09VNPB6Q1/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ],
+    "Keyboard": [
+      "https://www.amazon.com/SteelSeries-Apex-RGB-Gaming-Keyboard/product-reviews/B07ZGDPT4M/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Apex-Mechanical-Gaming-Keyboard/product-reviews/B07SVJJCP3/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Apex-Mechanical-Gaming-Keyboard/product-reviews/B07TBGQ6P7/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Apex-Mechanical-Gaming-Keyboard/product-reviews/B07SWNSXQN/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Apex-Hybrid-Mechanical-Gaming-Keyboard/product-reviews/B08B2HGTVS/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ],
+    "Headphones": [
+      "https://www.amazon.com/SteelSeries-Arctis-Illuminated-Headset-Headphone/product-reviews/B07FZQJ8PY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Arctis-Wireless-Gaming-Headset/product-reviews/B09KMHMYPF/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Arctis-Wireless-Gaming-Headset/product-reviews/B09KMGHPCY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Arctis-Console-Playstation-Nintendo/product-reviews/B09FTMB8R6/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Arctis-Multi-Platform-Gaming-Mobile-Headset/product-reviews/B0B8QP5BGD/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/SteelSeries-Arctis-Multi-Platform-Gaming-Mobile-Headset/product-reviews/B0B8QP5BGD/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ]
+  },
+  "Corsair": {
+    "Mouse": [
+      "https://www.amazon.com/Corsair-Nightsword-Performance-Tunable-Backlit/product-reviews/B07QX9C9WH/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/CORSAIR-M65-Pro-RGB-Adjustable/product-reviews/B01D63UU52/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Corsair-Scimitar-Gaming-Backlit-Optical/product-reviews/B082LRMY53/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Corsair-Wireless-SLIPSTREAM-Technology-CH-9315411-NA/product-reviews/B082LVNHW9/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/CORSAIR-Ultra-Wireless-Tunable-Gaming/product-reviews/B09CX6WD5Q/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ],
+    "Keyboard": [
+      "https://www.amazon.com/Corsair-Mechanical-Gaming-Keyboard-Switches/product-reviews/B09NCMHTSB/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Corsair-K100-Optical-Mechanical-Gaming-Keyboard/product-reviews/B08HR74WV4/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/CORSAIR-K55-RGB-PRO-Backlighting/product-reviews/B08Y681W3X/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Corsair-Mechanical-Gaming-Keyboard-Key/product-reviews/B08L61WLW7/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Corsair-Platinum-Mechanical-Keyboard-Backlit/product-reviews/B082GR814B/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ],
+    "Headphones": [
+      "https://www.amazon.com/Corsair-Wireless-Premium-Headset-Surround/product-reviews/B07X8SJ8HM/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Corsair-HS60-Pro-Headphones-Compatible/product-reviews/B07X9W8CBP/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/CORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth/product-reviews/B09BXZKNDB/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Corsair-HS70-Wireless-Gaming-Headset/product-reviews/B07X9W721J/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Corsair-HS35-Headset-Earcups-Headphones/product-reviews/B07QX99XJJ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ]
+  },
+  "Cooler Master": {
+    "Mouse" : [
+      "https://www.amazon.com/Cooler-Master-RGB-LED-Lightweight-Gaming/product-reviews/B07ZGG7GSY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-Lightweight-Ultraweave-Optical/product-reviews/B08K2NMXTZ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-Lightweight-Honeycomb-Ultraweave/product-reviews/B07YKK9KRJ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-Adjustable-Ultraweave-MasterPlus/product-reviews/B0BGY8MSYT/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-Adjustable-Bluetooth-MasterPlus/product-reviews/B09B195XPJ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ],
+    "Keyboard": [
+      "https://www.amazon.com/CK552-Mechanical-Customizable-Illumination-CK-552-KKGR1-US/product-reviews/B07NPZKPH6/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-Wireless-Mechanical-Connectivity/product-reviews/B09SVHVL9G/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-Wireless-Mechanical-Ergonomic/product-reviews/B09CK7D23F/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-Devastator-Keyboard-Settings/product-reviews/B072N93MLB/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-Sk-650-Gklr1-US-Mechanical-Keyboard/product-reviews/B07N4DFPNM/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+    ],
+    "Headphones": [
+      "https://www.amazon.com/Cooler-Master-MH670-Multi-Platform-Compatibility/product-reviews/B07ZV754W6/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-MH630-Omnidirectional-Connectivity/product-reviews/B07ZV7GGB3/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-MH650-Illumination-Omnidirectional/product-reviews/B07ZV7SDQX/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-CH321-Gaming-Headset/product-reviews/B081FWFRN7/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+      "https://www.amazon.com/Cooler-Master-MH-750-Exclusive-Technology/product-reviews/B075N17DLB/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
     ]
   }
 }

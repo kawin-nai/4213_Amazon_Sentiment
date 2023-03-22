@@ -29,7 +29,7 @@ def get_review(links):
                 driver.get(URL)
                 time.sleep(1)
                 product_name = driver.find_element(By.CLASS_NAME, 'a-size-large').text
-                product_rating = driver.find_element(By.CSS_SELECTOR, '.a-size-medium.a-color-base').text.split(' ')[0]
+                product_rating = float(driver.find_element(By.CSS_SELECTOR, '.a-size-medium.a-color-base').text.split(' ')[0])
                 print(product_name)
                 review_list = []
 
