@@ -8,6 +8,8 @@ from selenium.webdriver.common.by import By
 options = webdriver.ChromeOptions()
 firefox_options = webdriver.FirefoxOptions()
 firefox_options.add_argument('--headless')
+firefox_options.add_argument('--incognito')
+firefox_options.add_argument('--ignore-certificate-errors')
 # options.add_argument('--ignore-certificate-errors')
 # options.add_argument('--incognito')
 # options.add_argument('--headless')
@@ -24,14 +26,15 @@ def get_review(links):
         for category in links[brand]:
             category_list = []
             print(category)
-            for URL in links[brand][category]:
+            for url in links[brand][category]:
                 product_dict = dict()
-                driver.get(URL)
+                driver.get(url)
                 time.sleep(1)
                 product_name = driver.find_element(By.CLASS_NAME, 'a-size-large').text
-                product_rating = float(driver.find_element(By.CSS_SELECTOR, '.a-size-medium.a-color-base').text.split(' ')[0])
+                product_rating = float(driver.find_element(By.CSS_SELECTOR, '.a-size-medium.a-color-base')
+                                       .text.split(' ')[0])
                 print(product_name)
-                review_list = []
+                review_list = set()
 
                 while True:
                     print(driver.current_url)
@@ -42,19 +45,19 @@ def get_review(links):
                         break
                     try:
                         driver.find_element(By.XPATH, '//li[@class="a-last"]/a').click()
-                    except:
-                        print('No more pages')
+                    except Exception as e:
+                        print('No more pages', e)
                         break
 
                 for text in review_list:
                     print(text)
                 product_dict["name"] = product_name
                 product_dict["rating"] = product_rating
-                product_dict["reviews"] = review_list
+                product_dict["reviews"] = list(review_list)
                 category_list.append(product_dict)
             brand_dict[category] = category_list
         full_dict[brand] = brand_dict
-    with open("reviews_extracted.json", "w") as ff:
+    with open("reviews_final_extracted.json", "w") as ff:
         json.dump(full_dict, ff, indent=2)
     return full_dict
 
@@ -66,14 +69,14 @@ def get_review_list(page, review_list):
         for stuff in review.contents:
             text = stuff.get_text()
             if text != '\n':
-                review_list.append(stuff.get_text())
+                review_list.add(stuff.get_text())
     print(len(review_list))
 
 
 def main():
     with open('urls.json') as f:
-        URLS = json.load(f)
-    full_dict = get_review(URLS)
+        urls = json.load(f)
+    full_dict = get_review(urls)
     print(full_dict)
 
 

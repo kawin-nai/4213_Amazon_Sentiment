@@ -1,0 +1,650 @@
+{
+  "Razer": {
+    "Mouse": [
+      {
+        "name": "Razer Orochi V2 Mobile Wireless Gaming Mouse: Ultra Lightweight - 2 Wireless Modes - Up to 950hrs Battery Life - Mechanical Mouse Switches - 5G Advanced 18K DPI Optical Sensor - White",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.28
+        }
+      },
+      {
+        "name": "Razer DeathAdder Essential Gaming Mouse: 6400 DPI Optical Sensor - 5 Programmable Buttons - Mechanical Switches - Rubber Side Grips - Classic Black",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.387755102040816
+        }
+      },
+      {
+        "name": "Razer Basilisk V3 Customizable Ergonomic Gaming Mouse: Fastest Gaming Mouse Switch - Chroma RGB Lighting - 26K DPI Optical Sensor - 11 Programmable Buttons - HyperScroll Tilt Wheel - Classic Black",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.490196078431373
+        }
+      },
+      {
+        "name": "Razer Mamba Elite Wired Gaming Mouse: 16,000 DPI Optical Sensor - Chroma RGB Lighting - 9 Programmable Buttons - Mechanical Switches",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.16
+        }
+      },
+      {
+        "name": "Razer Basilisk Ultimate HyperSpeed Wireless Gaming Mouse: Fastest Gaming Mouse Switch, 20K DPI Optical Sensor, Chroma RGB Lighting, 11 Programmable Buttons, 100 Hr Battery, Classic Black",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.980769230769231
+        }
+      }
+    ],
+    "Keyboard": [
+      {
+        "name": "Razer BlackWidow V3 Mechanical Gaming Keyboard: Yellow Mechanical Switches - Linear & Silent - Chroma RGB Lighting - Compact Form Factor - Programmable Macro Functionality, Classic Black",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.372549019607843
+        }
+      },
+      {
+        "name": "Razer Ornata Chroma Gaming Keyboard: Hybrid Mechanical Key Switches - Customizable Chroma RGB Lighting - Individually Backlit Keys - Detachable Plush Wrist Rest - Programmable Macro Functionality",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.2407407407407405
+        }
+      },
+      {
+        "name": "Razer Ornata V3 X Gaming Keyboard: Low-Profile Keys - Silent Membrane Switches - Spill Resistant - Chroma RGB Lighting - Ergonomic Wrist Rest - Classic Black",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.86
+        }
+      },
+      {
+        "name": "Razer Huntsman Mini 60% Gaming Keyboard: Fast Keyboard Switches - Linear Optical Switches - Chroma RGB Lighting - PBT Keycaps - Onboard Memory - Classic Black",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.6
+        }
+      },
+      {
+        "name": "Razer Huntsman V2 Optical Gaming Keyboard: Fastest Linear Optical Switches Gen-2 w/Sound Dampeners & 8000Hz Polling Rate - Doubleshot PBT Keycaps - Dedicated Media Keys & Dial - Ergonomic Wrist Rest",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.372549019607843
+        }
+      }
+    ],
+    "Headphones": [
+      {
+        "name": "Razer Kraken Gaming Headset: Lightweight Aluminum Frame, Retractable Noise Isolating Microphone, For PC, PS4, PS5, Switch, Xbox One, Xbox Series X & S, Mobile, 3.5 mm Audio Jack \u2013 Green",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.489795918367347
+        }
+      },
+      {
+        "name": "Razer BlackShark V2 X Gaming Headset: 7.1 Surround Sound - 50mm Drivers - Memory Foam Cushion - for PC, PS4, PS5, Switch, Xbox One, Xbox Series X|S, Mobile - 3.5mm Audio Jack - Classic Black",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.2
+        }
+      },
+      {
+        "name": "Razer BlackShark V2 Gaming Headset: THX 7.1 Spatial Surround Sound - 50mm Drivers - Detachable Mic - PC, PS4, PS5, Switch, Xbox One, Xbox Series X & S, Mobile - 3.5 mm Audio Jack & USB DAC - Black",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.448979591836735
+        }
+      },
+      {
+        "name": "Razer Barracuda Wireless Gaming & Mobile Headset (PC, Playstation, Switch, Android, iOS): 2.4GHz Wireless + Bluetooth - Integrated Noise-Cancelling Mic - 50mm Drivers - 40 Hour Battery - Black",
+        "rating": 4.0,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.4489795918367347
+        }
+      },
+      {
+        "name": "Razer Nari Ultimate Wireless 7.1 Surround Sound Gaming Headset: THX Audio & Haptic Feedback - Auto-Adjust Headband - Chroma RGB - Retractable Mic - For PC, PS4, PS5 - Black",
+        "rating": 4.1,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.62
+        }
+      }
+    ]
+  },
+  "Logitech": {
+    "Mouse": [
+      {
+        "name": "Logitech M510 Wireless Computer Mouse for PC with USB Unifying Receiver - Graphite",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.7
+        }
+      },
+      {
+        "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse, Hero 12K Sensor, 12,000 DPI, Lightweight, 6 Programmable Buttons, 250h Battery Life, On-Board Memory, PC/Mac - Black",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.54
+        }
+      },
+      {
+        "name": "Logitech G502 HERO High Performance Wired Gaming Mouse, HERO 25K Sensor, 25,600 DPI, RGB, Adjustable Weights, 11 Programmable Buttons, On-Board Memory, PC / Mac, Black",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.4
+        }
+      },
+      {
+        "name": "Logitech G Pro Wireless Gaming Mouse with Esports Grade Performance",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.490196078431373
+        }
+      },
+      {
+        "name": "Logitech MX Master 2S Wireless Mouse \u2013 Use on Any Surface, Hyper-Fast Scrolling, Ergonomic Shape, Rechargeable, Control Upto 3 Apple Mac and Windows Computers, Graphite (Discontinued by Manufacturer)",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.16
+        }
+      }
+    ],
+    "Keyboard": [
+      {
+        "name": "Logitech K270 Wireless Keyboard for Windows, 2.4 GHz Wireless, Full-Size, Number Pad, 8 Multimedia Keys, 2-Year Battery Life, Compatible with PC, Laptop",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.321428571428571
+        }
+      },
+      {
+        "name": "Logitech G915 TKL Tenkeyless Lightspeed Wireless RGB Mechanical Gaming Keyboard, Low Profile Switch Options, LIGHTSYNC RGB, Advanced Wireless and Bluetooth Support - Linear , Black",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.923076923076923
+        }
+      },
+      {
+        "name": "Logitech G613 LIGHTSPEED Wireless Mechanical Gaming Keyboard, Multihost 2.4 GHz + Blutooth Connectivity - Black",
+        "rating": 4.4,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.3
+        }
+      },
+      {
+        "name": "Logitech G PRO Mechanical Gaming Keyboard, Ultra Portable Tenkeyless Design, Detachable Micro USB Cable, 16.8 Million Color LIGHTSYNC RGB Backlit Keys",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.408163265306122
+        }
+      },
+      {
+        "name": "Logitech G413 Backlit Mechanical Gaming Keyboard with USB Passthrough \u2013 Carbon",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.153846153846154
+        }
+      }
+    ],
+    "Headphones": [
+      {
+        "name": "Logitech G733 Lightspeed Wireless Gaming Headset with Suspension Headband, Lightsync RGB, Blue VO!CE mic technology and PRO-G audio drivers - Black",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.346153846153846
+        }
+      },
+      {
+        "name": "Logitech G435 LIGHTSPEED and Bluetooth Wireless Gaming Headset - Lightweight over-ear headphones, built-in mics, 18h battery, compatible with Dolby Atmos, PC, PS4, PS5, Nintendo Switch, Mobile - White",
+        "rating": 4.2,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.2
+        }
+      },
+      {
+        "name": "Logitech G432 Wired Gaming Headset, 7.1 Surround Sound, DTS Headphone:X 2.0, Flip-to-Mute Mic, PC (Leatherette) Black/Blue",
+        "rating": 4.4,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.7142857142857144
+        }
+      },
+      {
+        "name": "Logitech G335 Wired Gaming Headset, with Flip to Mute Microphone, 3.5mm Audio Jack, Memory Foam Earpads, Lightweight, Compatible with PC, PlayStation, Xbox, Nintendo Switch \u2013 Black",
+        "rating": 4.3,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.28
+        }
+      },
+      {
+        "name": "Logitech H390 Wired Headset for PC/Laptop, Stereo Headphones with Noise Cancelling Microphone, USB, In-Line Controls, Works with Chromebook - Black",
+        "rating": 4.4,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.56
+        }
+      }
+    ]
+  },
+  "SteelSeries": {
+    "Mouse": [
+      {
+        "name": "SteelSeries Rival 3 Gaming Mouse - 8,500 CPI TrueMove Core Optical Sensor - 6 Programmable Buttons - Split Trigger Buttons - Brilliant Prism RGB Lighting",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.84
+        }
+      },
+      {
+        "name": "SteelSeries Aerox 5 Wireless - Gaming Mouse - 18000 CPI -- TrueMove Air Optical Sensor - Ultra-lightweight Water Resistant Design \u2013 180+ Hour Battery Life",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.84
+        }
+      },
+      {
+        "name": "SteelSeries Rival 600 Gaming Mouse - 12,000 CPI TrueMove3Plus Dual Optical Sensor - 0.5 Lift-off Distance - Weight System - RGB Lighting",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.7
+        }
+      },
+      {
+        "name": "SteelSeries Rival 650 Quantum Wireless Gaming Mouse - Rapid Charging Battery - 12, 000 Cpi Truemove3+ Dual Optical Sensor - Low 0.5 Lift-Off Distance - 256 Weight Configurations - 8 Zone RGB Lighting",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.1
+        }
+      },
+      {
+        "name": "SteelSeries Aerox 9 Wireless \u2013 Ultra-Lightweight Wireless Gaming Mouse \u2013 18000 CPI \u2013 TrueMove Air Optical Sensor - Water Resistant\u2013 180 Hour Battery \u2013 18 Programmable Buttons",
+        "rating": 4.1,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.26
+        }
+      }
+    ],
+    "Keyboard": [
+      {
+        "name": "SteelSeries Apex 3 RGB Gaming Keyboard \u2013 10-Zone RGB Illumination \u2013 IP32 Water Resistant \u2013 Premium Magnetic Wrist Rest (Whisper Quiet Gaming Switch)",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.5
+        }
+      },
+      {
+        "name": "SteelSeries Apex Pro USB Mechanical Gaming Keyboard \u2013 Adjustable Actuation Switches \u2013 World\u2019s Fastest Mechanical Keyboard \u2013 OLED Smart Display \u2013 RGB Backlit",
+        "rating": 4.8,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.288461538461538
+        }
+      },
+      {
+        "name": "SteelSeries USB Apex Pro TKL Mechanical Gaming Keyboard \u2013 World\u2019s Fastest Mechanical Switches \u2013 OLED Smart Display \u2013 Compact Form Factor \u2013 RGB Backlit",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.538461538461538
+        }
+      },
+      {
+        "name": "SteelSeries Apex 7 Mechanical Gaming Keyboard \u2013 OLED Smart Display \u2013 USB Passthrough and Media Controls \u2013 Linear , Quiet \u2013 RGB Backlit (Red Switch)",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.888888888888889
+        }
+      },
+      {
+        "name": "SteelSeries Apex 5 Hybrid mechanical Keyboard OLED Smart Display (Renewed)",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.5789473684210527
+        }
+      }
+    ],
+    "Headphones": [
+      {
+        "name": "SteelSeries Arctis 5 - RGB Illuminated Gaming Headset with DTS Headphone: X v2.0 Surround - for PC and PlayStation 4 - Black",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.461538461538462
+        }
+      },
+      {
+        "name": "SteelSeries Arctis 7+ Wireless Gaming Headset \u2013 Lossless 2.4 GHz \u2013 30 Hour Battery Life \u2013 USB-C \u2013 7.1 Surround \u2013 For PC, PS5, PS4, Mac, Android and Switch - Black",
+        "rating": 4.3,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.04
+        }
+      },
+      {
+        "name": "SteelSeries Arctis 7P+ Wireless Gaming Headset \u2013 Lossless 2.4 GHz \u2013 30 Hour Battery Life \u2013 USB-C \u2013 3D Audio \u2013 For PS5, PS4, PC, Mac, Android and Switch - White",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.3
+        }
+      },
+      {
+        "name": "SteelSeries Arctis 3 Console - Stereo Wired Gaming Headset for PlayStation 5 / 4, Xbox Series X|S, Nintendo Switch, VR, Android and iOS - White",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.24
+        }
+      },
+      {
+        "name": "SteelSeries New Arctis Nova 7X Multi-Platform Gaming & Mobile Headset \u2014 Nova Acoustic System \u2014 Simultaneous Wireless 2.4GHz + Bluetooth \u2014 38Hr Battery \u2014 USB-C \u2014 Xbox, PC, PS, Switch, Mobile",
+        "rating": 4.1,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.48
+        }
+      },
+      {
+        "name": "SteelSeries New Arctis Nova 7X Multi-Platform Gaming & Mobile Headset \u2014 Nova Acoustic System \u2014 Simultaneous Wireless 2.4GHz + Bluetooth \u2014 38Hr Battery \u2014 USB-C \u2014 Xbox, PC, PS, Switch, Mobile",
+        "rating": 4.1,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.48
+        }
+      }
+    ]
+  },
+  "Corsair": {
+    "Mouse": [
+      {
+        "name": "Corsair Nightsword RGB - Comfort Performance Tunable FPS/MOBA Optical Ergonomic Gaming Mouse with Backlit RGB LED, 18000 DPI, Black",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.14
+        }
+      },
+      {
+        "name": "CORSAIR M65 Pro RGB - FPS Gaming Mouse - 12,000 DPI Optical Sensor - Adjustable DPI Sniper Button - Tunable Weights -  Black (CH-9300011-NA)",
+        "rating": 4.4,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.78
+        }
+      },
+      {
+        "name": "Corsair Scimitar RGB Elite, MOBA/MMO Gaming Mouse, Black, Backlit RGB LED, 18000 DPI, Optical",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.764705882352941
+        }
+      },
+      {
+        "name": "Corsair Dark Core RGB Pro, Wireless FPS/MOBA Gaming Mouse with SLIPSTREAM Technology, Black, Backlit RGB LED, 18000 DPI, Optical,CH-9315411-NA",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.98
+        }
+      },
+      {
+        "name": "Corsair M65 RGB Ultra Wireless, Tunable FPS Wireless Gaming Mouse",
+        "rating": 4.2,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.153846153846154
+        }
+      }
+    ],
+    "Keyboard": [
+      {
+        "name": "Corsair K70 RGB PRO Wired Mechanical Gaming Keyboard (Cherry MX RGB Red Switches: Linear and Fast, 8,000Hz Hyper-Polling, PBT Double-Shot PRO Keycaps, Soft-Touch Palm Rest) QWERTY, NA - Black",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.18
+        }
+      },
+      {
+        "name": "Corsair K100 RGB Optical-Mechanical Gaming Keyboard - Corsair OPX RGB Optical-Mechanical Keyswitches - AXON Hyper-Processing Technology for 4X Faster Throughput - 44-Zone RGB LightEdge",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.294117647058823
+        }
+      },
+      {
+        "name": "CORSAIR K55 RGB PRO-Dynamic RGB Backlighting - Six Macro Keys with Elgato Stream Deck Software Integration-IP42 Dust and Spill Resistant-Detachable Palm Rest-Dedicated Media and Volume Keys, Black",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.183673469387755
+        }
+      },
+      {
+        "name": "Corsair Wired K60 RGB Pro Mechanical Gaming Keyboard - CHERRY Mechanical Keyswitches - Durable AluminumFrame - Customizable Per-Key RGB Backlighting, Black",
+        "rating": 4.4,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.94
+        }
+      },
+      {
+        "name": "Corsair K95 RGB Platinum XT Mechanical Gaming Keyboard, Backlit RGB LED, Cherry MX Speed RGB Silver, Black (CH-9127414-NA)",
+        "rating": 4.7,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.58
+        }
+      }
+    ],
+    "Headphones": [
+      {
+        "name": "Corsair Void RGB Elite Wireless Premium Gaming Headset with 7.1 Surround Sound - Discord Certified - Works with PC, PS5 and PS4 - Carbon (CA-9011201-NA)",
+        "rating": 4.4,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.24
+        }
+      },
+      {
+        "name": "Corsair HS60 PRO - 7.1 Virtual Surround Sound Gaming Headset with USB DAC - Works with PC, Xbox Series X, Xbox Series S, Xbox One, PS5, PS4, and Nintendo Switch - Carbon (CA-9011213-NA)",
+        "rating": 4.4,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.9411764705882355
+        }
+      },
+      {
+        "name": "CORSAIR VIRTUOSO RGB WIRELESS XT High-Fidelity Gaming Headset with Bluetooth and Spatial Audio - Works with Mac, PC, PS5, PS4, Xbox series X/S - Slate",
+        "rating": 4.3,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.12
+        }
+      },
+      {
+        "name": "Corsair HS70 Pro Wireless Gaming Headset - 7.1 Surround Sound Headphones for PC, MacOS, PS5, PS4 - Discord Certified - 50mm Drivers \u2013 Carbon",
+        "rating": 4.2,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.84
+        }
+      },
+      {
+        "name": "Corsair HS35 - Stereo Gaming Headset - Memory Foam Earcups - Works with PC, Mac, Xbox Series X/ S, Xbox One, PS5, PS4, Nintendo Switch, iOS and Android - Carbon (CA-9011195-NA)",
+        "rating": 4.3,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.86
+        }
+      }
+    ]
+  },
+  "Cooler Master": {
+    "Mouse": [
+      {
+        "name": "Cooler Master MM711 RGB-LED Lightweight 60g Wired Gaming Mouse - 16000 DPI Optical Sensor, 20 Million Click Omron Switches, Smooth Glide PTFE Feet, and Ambidextrous Honeycomb Shell - Matte Black",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.9
+        }
+      },
+      {
+        "name": "Cooler Master MM720 Black Matte Lightweight Gaming Mouse with Ultraweave Cable, 16000 DPI Optical Sensor, RGB and Unique Claw Grip Shape",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.423076923076923
+        }
+      },
+      {
+        "name": "Cooler Master MM710 Glossy Black Gaming Mouse with Lightweight Honeycomb Shell, Ultraweave Cable, 16000 DPI Optical Sensor",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.411764705882353
+        }
+      },
+      {
+        "name": "Cooler Master MM712 Wireless Gaming Mouse White with Adjustable 19,000 DPI, 2.4GHz and Bluetooth, Ultraweave Cable, PTFE Feet, RGB Lighting and MasterPlus+ Software",
+        "rating": 4.6,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.823529411764706
+        }
+      },
+      {
+        "name": "Cooler Master MM731 Black Gaming Mouse with Adjustable 19,000 DPI, 2.4GHz and Bluetooth Wireless, PTFE Feet, RGB Lighting and MasterPlus+ Software (MM-731-KKOH1)",
+        "rating": 4.1,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.8048780487804876
+        }
+      }
+    ],
+    "Keyboard": [
+      {
+        "name": "Cooler Master CK552 Full Mechanical Gaming PC Keyboard Gateron Linear Red, Switches, Customizable RGB Illumination, On-The-Fly Controls, Aluminum Top Plate, QWERTY (CK-552-KKGR1-US)",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.352941176470588
+        }
+      },
+      {
+        "name": "Cooler Master CK721 65% Hybrid Wireless 2.4GHz/Bluetooth Space Gray Mechanical Gaming Keyboard, Click Blue Switches, Customizable RGB, Ergonomic Design, 3-Way Dial, QWERTY (CK-721-GKTL1-US)",
+        "rating": 4.0,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.8636363636363638
+        }
+      },
+      {
+        "name": "Cooler Master SK653 Wireless Bluetooth Space Gray Full Mechanical Low Profile Gaming Keyboard, Tactile Brown Switches, Customizable RGB, Ergonomic Design, Mac/Windows, QWERTY (SK-653-GKTM1-US)",
+        "rating": 3.4,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.0377358490566038
+        }
+      },
+      {
+        "name": "Cooler Master Devastator 3 Gaming Keyboard & Mouse Combo, 7 Color Mode LED Backlit, Media Keys, 4 DPI Settings, Model:SGB-3000-KKMF1-US",
+        "rating": 4.5,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.02
+        }
+      },
+      {
+        "name": "Cooler Master USB Type-C (Keyboard Side), USB 2.0 Type A (Computer Side) Sk-650-Gklr1-US SK650 Mechanical Keyboard with Cherry MX Low Profile Switches In Brushed Aluminum Design,BlacK Layout,Full",
+        "rating": 4.0,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.843137254901961
+        }
+      }
+    ],
+    "Headphones": [
+      {
+        "name": "Cooler Master MH670 Gaming Headset with 2.4GHz Wireless, Virtual 7.1 Surround Sound, Durable Aluminum Frame, Detachable Omni-Directional Boom Mic, PC/Console/Mobile Connectivity  (MH-670)",
+        "rating": 4.1,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.28
+        }
+      },
+      {
+        "name": "Cooler Master MH630 Gaming Headset with Hi-Fi Sound, Omnidirectional Boom Mic, Durable Aluminum Frame, Detachable Omni-Directional Boom Mic, PC/Console/Mobile Connectivity (MH-630)",
+        "rating": 4.2,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.7
+        }
+      },
+      {
+        "name": "Cooler Master MH650 Gaming Headset with RGB Illumination, Virtual 7.1 Surround Sound, Durable Aluminum Frame, Detachable Omni-Directional Boom Mic, USB Connectivity (MH-650)",
+        "rating": 4.3,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.46
+        }
+      },
+      {
+        "name": "Cooler Master CH-321 Gaming Headset, USB Connection, Microphone Included, PC/PS4/PS4 PRO/Xbox SP901",
+        "rating": 4.4,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 4.48
+        }
+      },
+      {
+        "name": "Cooler Master Pulse MH-750 Over-Ear Headset with Mic, Virtual 7.1 Channel Surround Sound with Exclusive Bass FX Technology",
+        "rating": 4.0,
+        "sentiment": {
+          "model": "LiYuan/amazon-review-sentiment-analysis",
+          "sentiment": 3.975609756097561
+        }
+      }
+    ]
+  }
+}
